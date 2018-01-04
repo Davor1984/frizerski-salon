@@ -1,0 +1,57 @@
+#desno{
+  position: absolute;
+  top: 20px;
+  right: 10px;
+  margin: 10px;
+  font-size: 17px;
+}
+#middle1{
+  width: 800px;
+  font-size: 27px;
+  margin-left: 300px;
+  padding-left: -120px;
+  background-color: white;
+}
+.header{
+  background-color: lightblue;
+  height: 42px;
+}
+#example {
+    min-width: 200px;
+    height: auto;
+    position: center;
+}
+img {
+   height: auto;
+   width: auto;
+}
+#C1{
+  text-align: center;
+  margin: 30px;
+}
+#A{
+  width:300px;
+  height:300px;
+  margin: 30px;
+}
+#B{
+  width:300px;
+  height:300px;
+  margin: 30px;
+}
+#C{
+  width:300px;
+  height:300px;
+  margin: 30px;
+}
+#C2{
+  text-align: center;
+  margin: 30px;
+}
+#C3{
+  text-align: center;
+  margin: 30px;
+}
+.okvir {
+    border: 2px solid black;
+    padding: 15px;
